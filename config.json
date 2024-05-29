@@ -1,0 +1,20 @@
+{
+    "siteTitle": "NYC Elm Devs",
+    "outputDir": "_site",
+    "feed": {
+        "type": "rss",
+        "title": "NYC Elms Devs",
+        "description": "Author's blog posts",
+        "id": "https://elmdevs.com",
+        "link": "https://elmdevs.com",
+        "image": "https://elmdevs.com",
+        "copyright": "Copyright: Evan Piro",
+        "language": "en",
+        "generator": "Elmstatic",
+        "author": {
+          "name": "Evan Piro",
+          "link": "https://github.com/EvanPiro"
+        }
+    },
+    "tags": ["other", "software"]
+}

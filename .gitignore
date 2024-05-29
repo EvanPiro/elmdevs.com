@@ -1,0 +1,27 @@
+# Generated files
+dist/
+#elm.js
+#elm.js.map
+
+# Build output
+elm-stuff/
+elm-stuff/build-artifacts/
+elm-stuff/packages/
+elm-stuff/tests/
+elm-stuff/coverage/
+elm-stuff/0.19.1/
+
+# Dependency directories
+elm-stuff/
+node_modules/
+
+# Editor/IDE files
+.idea/
+.vscode/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+
+_site/
+.wrangler/
