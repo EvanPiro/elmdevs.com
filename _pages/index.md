@@ -6,4 +6,6 @@ We are a group of Elm developers that meets monthly in New York City to discuss 
 
 RSVP for our monthly meet-ups here:
 
-[https://calendar.app.google/qHPos68r9hk5Mu8v5](https://calendar.app.google/YCUnkq3HVSbZGkYU9)
+[https://calendar.app.google/rrHJ3TtZauYtURMV9](https://calendar.app.google/YCUnkq3HVSbZGkYU9)
+
+
